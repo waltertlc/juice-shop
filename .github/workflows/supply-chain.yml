@@ -1,5 +1,4 @@
- 
-# Install GuardDog via pip 
+ # Install GuardDog via pip 
       - name: Install GuardDog & jq 
         run: | 
           pip3 install guarddog 
